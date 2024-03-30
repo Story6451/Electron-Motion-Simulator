@@ -1,0 +1,1 @@
+The code runs through the setup of the sim, but its output may be confusing. It shows the X and Y position of the electron travelling through a B field into the screen and an E field that goes from bottom to top of the screen.
